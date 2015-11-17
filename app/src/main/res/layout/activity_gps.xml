@@ -9,4 +9,10 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior" tools:showIn="@layout/activity_gps"
     tools:context="com.example.jimkc19940908.bmigps.GpsActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="add new message"
+        android:id="@+id/gpstextview"/>
+
 </RelativeLayout>
